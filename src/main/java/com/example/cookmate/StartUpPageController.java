@@ -3,12 +3,12 @@ package com.example.cookmate;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class StartUpPageController {
     @FXML
     private Label welcomeText;
 
     @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+    protected void onLoginButtonClick() {
+        welcomeText.setText("Signing Up for Cookmate!");
     }
 }
