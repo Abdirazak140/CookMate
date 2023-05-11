@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# VS Code files
+.vscode/
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+target/
+
+# Temp files
+tmp/
+
+# Jar file
+*.jar
+
+# Other files
+bin/
